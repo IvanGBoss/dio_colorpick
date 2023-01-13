@@ -1,0 +1,79 @@
+#game {
+  width: 300px;  
+  height: 360px; 
+  background-color: rgb(55, 60, 97); 
+  margin: 200px auto;  
+  border-radius: 4px;
+  padding: 20px;
+  border-radius: 4px;
+}
+  
+.color {
+  width: 130px;
+  height: 130px;
+  float: left;
+  margin: 10px;
+  border-radius: 4px;
+}
+
+#green {
+  background-color: rgb(0, 73, 0);
+  color:rgb(255, 255, 255);
+}
+
+#red {
+  background-color: rgb(80, 0, 0);
+  color:rgb(255, 255, 255);
+}
+
+#yellow {
+  background-color: rgb(99, 99, 0);
+  color:rgb(255, 255, 255);
+}
+
+#blue {
+  background-color: rgb(0, 0, 107);
+  color:rgb(255, 255, 255);
+}
+
+p {
+  font-family: "Arial Black", Gadget, sans-serif;
+  font-size: 46px;
+  word-spacing: 2px;
+  text-align: center;
+  line-height: 30px;
+  display: none;
+}
+
+#start-btn {
+  width: 200px;
+  height: 50px;
+  background-color: rgb(91, 149, 67);
+  margin: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-family: "Arial Black", Gadget, sans-serif;
+  font-size: 16px;
+  word-spacing: 2px;
+  color: #FFFFFF;
+  float: left;
+  text-align: center;
+  line-height: 50px;
+}
+
+#cb-btn {
+  width: 50px;
+  height: 50px;
+  background-color: rgb(51, 51, 51);
+  margin: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-family: "Arial Black", Gadget, sans-serif;
+  font-size: 10px;
+  word-spacing: 2px;
+  color: #FFFFFF;
+  float: left;
+  text-align: center;
+  line-height: 25px;
+}
+

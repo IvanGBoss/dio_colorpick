@@ -3,6 +3,7 @@
 
 A puzzle that is like the original simon game where you have to remember the order of colors. It shows a sequence of colors that the player will have to re-enter. This can be used for hacks in robberies and such. 
 
+It is colorblind Friendly!
 
 ## How to use: 
 
@@ -22,6 +23,13 @@ You can test the hack using /colorpick in game to play around with before puttin
 
 ## Preview:
 
+![image](https://user-images.githubusercontent.com/21018537/212273063-bbd5176b-6e10-4ab7-92d8-ab44103062c1.png)
+
+
+
+https://user-images.githubusercontent.com/21018537/212273150-c841dbc4-8f83-4675-abd1-a898a59db083.mp4
 
 
   
+
+
